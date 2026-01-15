@@ -1,0 +1,1 @@
+# monorepo-architecture-practice-example
