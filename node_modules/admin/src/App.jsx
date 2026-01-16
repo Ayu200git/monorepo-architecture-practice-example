@@ -5,6 +5,7 @@ import { Button } from '@repo/ui';
      <div>
         <h2>Admin App</h2>
         <Button>Login as a Admin</Button>
+        <p> see your analytics here!... </p>
      </div>
    );
  }
